@@ -1,0 +1,3 @@
+test txt word
+type
+word
